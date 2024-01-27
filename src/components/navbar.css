@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.25);
+    padding: 10px;
+}
+
+.navbar-left{
+    margin: 5px;
+}
+
+.external-link {
+    text-decoration: none;
+    color: var(--text);
+    font-size: 20px;
+    margin: 0 5px 0 5px;
+    transition: all 0.2s ease;
+}
+
+.external-link:hover {
+    color: var(--accent);
+}
+
+/*Responsiveness*/
+
+@media (max-width: 600px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .navbar-right{
+        flex-direction: column;
+    }
+
+    .external-link{
+        margin: 10px;
+        text-align: center;
+    }
+}

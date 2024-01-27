@@ -1,9 +1,10 @@
 import './App.css'
+import {Navbar} from "./components/navbar.jsx";
 
 function App() {
     return (
         <>
-            Hello Vite and React !
+            <Navbar/>
         </>
     )
 }
