@@ -1,4 +1,4 @@
-import logo from "../assets/images/logonamedark.svg";
+import logo from "../../assets/images/logonamedark.svg";
 import "./navbar.css"
 
 const links = [
