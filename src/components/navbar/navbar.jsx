@@ -1,5 +1,5 @@
 import logo from "../../assets/images/logonamedark.svg";
-import "./navbar.css"
+import "./navbar.css";
 
 const links = [
     {
