@@ -1,8 +1,14 @@
-# React + Vite
+# Portfolio Website in React.js
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is my portfolio website built in React.js. It is a single page application with a responsive design. It is hosted on my personal server and can be accessed via [https://boudouaya.freeboxos.fr](https://boudouaya.freeboxos.fr).
 
-Currently, two official plugins are available:
+It is a work in progress and I will be adding more features in the future, the website will be updated accordingly.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- [x] Responsive design
+- [ ] Dark mode switch
+- [ ] Contact form
+- [ ] Blog
+- [ ] More projects (personal and professional)
+- [ ] English version

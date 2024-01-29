@@ -15,7 +15,6 @@
     color: var(--text);
     font-size: 20px;
     margin: 0 5px 0 5px;
-    transition: all 0.2s ease;
 }
 
 .external-link:hover {
